@@ -25,8 +25,6 @@ Contents
   * Functions used to detect device types
 * utils-html.mjs
   * Functions useful for dealing with HTML
-* utils-js.mjs
-  * Functions related to the Javascript language
 * utils-lang.mjs
   * Functions related to the English language
 * utils-object.mjs
