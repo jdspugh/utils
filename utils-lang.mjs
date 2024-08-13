@@ -1,5 +1,5 @@
 import { irregularPluralsToSingulars, irregularSingularsToPlurals } from './plurals.mjs'
-import { L } from './utils-js.mjs'
+import { L } from './utils-debug.mjs'
 import { assertEquals } from './utils-test.mjs'
 
 /**
