@@ -1,3 +1,5 @@
+export const L=console.log
+
 /**
  * @returns {string | undefined}
  */
