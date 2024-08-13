@@ -9,6 +9,10 @@ Features
   * compatible with ES6 (ECMAScript 2015) and later
 
 Contents
+* utils-array.mjs
+  * Useful array manipulation functions
+* utils-classes.mjs
+  * Useful Javascript class creation functions
 * utils-color.mjs
   * Functions for manipulating colors
 * utils-date.mjs
@@ -25,17 +29,11 @@ Contents
   * Functions related to the English language
 * utils-object.mjs
   * Javascript object related functions
+* utils-string.mjs
+  * Useful string manipulation functions
 * utils-test.mjs
   * Contains assertion functions
 * utils-types.mjs
   * Common JSDoc types are stored here
 * plurals.mjs
   * English language singular <-> plural mappings
-
-
-* utils-string.mjs
-  * Useful string manipulation functions
-* utils-array.mjs
-  * Useful array manipulation functions
-* utils-classes.mjs
-  * Useful Javascript class creation functions
