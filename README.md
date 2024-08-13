@@ -7,3 +7,27 @@ Features
   * for when using VSCode (or other type intelligent IDEs)
 * ES Module format (ESM) *.mjs
   * compatible with ES6 (ECMAScript 2015) and later
+
+Contents
+* utils-color.mjs
+  * Functions for manipulating colors
+* utils-date.mjs
+  * Useful date related functions
+* utils-debug.mjs
+  * Functions useful for debugging
+* utils-devices.mjs
+  * Functions used to detect device types
+* utils-html.mjs
+  * Functions useful for dealing with HTML
+* utils-js.mjs
+  * Functions related to the Javascript language
+* utils-lang.mjs
+  * Functions related to the English language
+* utils-object.mjs
+  * Javascript object related functions
+* utils-test.mjs
+  * Contains assertion functions
+* utils-types.mjs
+  * Common JSDoc types are stored here
+* plurals.mjs
+  * English language singular <-> plural mappings
