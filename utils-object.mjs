@@ -1,6 +1,3 @@
-import './utils-test.mjs'// required to init gTest before and assert functions are called 
-import { assertEquals } from './utils-test.mjs'
-
 /**
  * @param {{}} o 
  * @returns 
