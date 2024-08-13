@@ -31,3 +31,11 @@ Contents
   * Common JSDoc types are stored here
 * plurals.mjs
   * English language singular <-> plural mappings
+
+
+* utils-string.mjs
+  * Useful string manipulation functions
+* utils-array.mjs
+  * Useful array manipulation functions
+* utils-classes.mjs
+  * Useful Javascript class creation functions
