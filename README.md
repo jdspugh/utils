@@ -9,6 +9,8 @@ Features
   * compatible with ES6 (ECMAScript 2015) and later
 
 Contents
+* plurals.mjs
+  * English language singular <-> plural mappings
 * utils-array.mjs
   * Useful array manipulation functions
 * utils-classes.mjs
@@ -35,5 +37,3 @@ Contents
   * Contains assertion functions
 * utils-types.mjs
   * Common JSDoc types are stored here
-* plurals.mjs
-  * English language singular <-> plural mappings
